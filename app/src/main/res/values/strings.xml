@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson05_Android_Client</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_login">Login</string>
+    <string name="logo_descriptor">Logo</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+
+    <!--Strings for prompt message-->
+    <string name="user_not_approved">User not approved</string>
+</resources>
